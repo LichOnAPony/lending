@@ -1,0 +1,20 @@
+:root{
+    --text-color-w:#FFF;
+    --block-width:1200px;   
+    --background-color-prime:#50B2EA;
+    --background-color-input:#a8d9f5;
+    --background-color-prime-hover: #3f91c0;
+    --background-color-prime-active: #357ca5;
+    --text-color-second:#19435A;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Poppins;
+    box-sizing: border-box;
+}
+.text-w {
+    color: var(--text-color-w);
+}
